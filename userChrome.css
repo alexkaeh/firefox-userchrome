@@ -1,0 +1,4 @@
+/* hides the title bar */
+#titlebar {
+    visibility: collapse;
+  }
